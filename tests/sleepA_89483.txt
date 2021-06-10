@@ -1,0 +1,7 @@
+0 1 vinte  vinte
+1 2 e      e
+2 3 tres   tres
+3 4 e      e
+4 5 um     um
+5 6 quarto quarto
+6

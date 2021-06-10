@@ -1,0 +1,8 @@
+0 1 um      quinze
+0 2 dois    trinta
+0 3 tres    quarenta
+3 4 eps     e
+4 2 eps     cinco
+1 5 quarto  eps
+2 5 quartos eps
+5
